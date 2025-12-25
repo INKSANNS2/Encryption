@@ -1,0 +1,8 @@
+cryptography>=41.0.0
+colorama>=0.4.6  # Цветной вывод в Windows
+click>=8.1.0    
+tqdm>=4.65.0
+pyfiglet>=0.8.post1
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
